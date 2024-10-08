@@ -14,7 +14,4 @@ This repository contains Credit card fraud detection algorithm using machine lea
 
 **_Visualisation_** : The library used for visualizing the data, confusion matrix etc. is seaborn.
 
-This code is prepared using Jupyter Notebook. 
-
-You can find the dataset in the link provided below:
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+This code is prepared using Jupyter Google Colab.
